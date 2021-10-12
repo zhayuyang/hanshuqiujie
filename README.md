@@ -1,2 +1,4 @@
 # hanshuqiujie
-qiujieduoxiangshihanshu
+一个简单的多项式函数求解器
+一次函数使用的是两点确定一条直线
+高次函数使用的是拉格朗日插值多项式
